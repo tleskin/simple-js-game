@@ -1,6 +1,6 @@
 ##Simple JS Game
 
-This is a simple game written in JavaScript using Canvas. The user controls a play who runs around catching little monsters. Once the user catches the monster, a point is added and the game resets.  
+This is a simple game written in JavaScript using Canvas. The user controls a player or trainer who runs around catching little monsters that they can train. Once the user catches the monster, a point is added to their score and the game resets.  
 
 ###To use:
 
